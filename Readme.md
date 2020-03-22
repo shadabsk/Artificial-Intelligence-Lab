@@ -16,7 +16,7 @@ Artificial Intelligence Experiments Using Python
 * Follow the on-screen instruction for input syntax, simply run bfs.py and dfs.py respectively.
 
 ### Implementation of A Star Search Technique.
-* Python implementation A star Search algorithm.
+* Python implementation of A star Search algorithm.
 * Requires python interpreter.
 * Follow the on-screen instruction for input syntax, simply run Astar.py.
 
