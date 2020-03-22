@@ -2,11 +2,14 @@ __author__ = 'Shadab Shaikh'
 __title__ = 'To Implement wumpus world'
 __date__ = '28-09-2019'
 __version__ = '2.0'
+__availability__ = 'https://github.com/shadabsk'
 
 print('Author		: ' + __author__)
 print('Title		: ' + __title__)
 print('Date		: ' + __date__)
 print('Version		: ' + __version__)
+print('Availability	: ' + __availability__)
+
 
 #9=stench
 #8=glitter
